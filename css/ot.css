@@ -4,7 +4,7 @@ font-size:75%;
 color:#FFF;
 font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
 }
- /* * {
+/* * {
    border: 1px solid red !important;
 }*/
 #header {
@@ -22,9 +22,14 @@ hr {
 	padding: 0 !important;
 }
 
-.texts {
-	font-size: 18px;
+.xltext {
+	color: #000 !important;
+	font-size: 45px;
+	font-weight: 200;
 	margin: 0;
+	padding-bottom: 0;
+	padding-top: 30px;
+	
 }
 
 /* ---- Horizontal menu section ---- */ 
