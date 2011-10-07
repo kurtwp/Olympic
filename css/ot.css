@@ -37,15 +37,17 @@ hr {
 	margin-top: 10px !important;
 }
 /* ---- Horizontal menu section ---- */ 
-.horz { } 
-.horz ul{
+.horz {
 	border-bottom:1px solid #2F3597;
         border-top:1px solid #2F3597;
+	height: 40px;
+} 
+.horz ul{
+	
         color: #000;
         font-family: arial,helvetica,sans-serif;
-        height: 40px;
-	padding:0;
-	margin:0;
+        padding:0;
+	margin-left: 200px;
 	white-space: nowrap;
         font-size: 21px;
         padding-left: 22px;
@@ -58,7 +60,6 @@ hr {
 	list-style:none;
 }
 .horz ul li a {
-    background: none repeat scroll 0 0 #FFFFFF;
     color: #000000;
     float: left;
     padding: 0.2em 1em;
@@ -66,7 +67,7 @@ hr {
 	
 }
 .horz ul li a:hover {
-	background: none repeat scroll 0 0 #2F3597;
+	background: #2F3597;
 	color:#FFF !important;
 	text-decoration:none;
 }
