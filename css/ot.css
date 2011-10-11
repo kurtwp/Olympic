@@ -36,7 +36,14 @@ hr {
 	padding: 0;
 	margin-top: 10px !important;
 }
-/* ---- Horizontal menu section ---- */ 
+
+.ptext {
+	color: #222;
+	font-size: 18px;
+	text-indent: 2em;
+	
+}
+/* ---- Horizontal menu section ---- */
 .horz {
 	border-bottom:1px solid #2F3597;
         border-top:1px solid #2F3597;
