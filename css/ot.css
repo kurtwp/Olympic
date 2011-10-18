@@ -1,7 +1,6 @@
-#otbody {
-background-color: #2F3597;
+.ccolor {
+background-color: #0A8BC5;
 font-size:75%;
-color:#FFF;
 font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
 }
 /* * {
@@ -13,6 +12,11 @@ font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
 	padding-top: 10px !important;
 	padding-bottom: 10px !important;
 }
+footer {
+	color: #CCC;
+	font-size: small !important;
+	height: 25px;
+}
 h1 {
 	color: #FFF !important;
 }
@@ -21,7 +25,13 @@ hr {
 	height: 1px !important;
 	padding: 0 !important;
 }
-
+/* ---- Text Formatting Sections ----*/ 
+.ctext {
+	color: #2F3597;
+	font-size: 25px;
+	padding: 0;
+	text-transform: lowercase;
+}
 .xltext {
 	color: #000 !important;
 	font-size: 45px;
@@ -32,17 +42,47 @@ hr {
 	
 }
 .addtext {
-	font-size: 18px;
-	padding: 0;
+	font-size: 30px !important;
+	padding: 7px;
 	margin-top: 10px !important;
 }
 
 .ptext {
-	color: #222;
+	color: #333;
+	font-size: 15px;
+	text-indent: 0px;
+}
+.atext {
+	color: #333;
 	font-size: 18px;
-	text-indent: 2em;
+	padding: 0 0 0 5px;
+	text-indent: 0;
 	
 }
+/* ---- End of Text Formatting Section ----*/
+.border{
+	border-top-color: #048F4B;
+	border-top-width: 5px;
+	height: 5px;
+}
+.top {
+	background-color: #FFFFFA;
+	margin: 0 5px 0 5px;
+	padding-bottom: 15px !important;
+	position: relative;
+	height: 140px;
+	width: 940px;
+}
+/* ---- Start of Content section ---- */
+.content {
+	background-color: #FFFFFA;
+	float: right;
+	margin: 0px 5px 5px 0px;
+	padding-left: 3px;
+	padding-top: 5px; 
+	width: 720px;
+}
+/* ---- End of Content section  ---- */
 /* ---- Horizontal menu section ---- */
 .horz {
 	border-bottom:1px solid #2F3597;
@@ -84,3 +124,42 @@ hr {
 	text-decoration:none;
 }
 /* ---- End of Horizontal Menus section ---- */
+/* ---- Start of Vertical Menu Section ---- */
+.vert {
+	clear: both;
+	height: auto;
+	float: left;
+	margin: 0px 5px 5px 5px;
+	width: 212px;
+}
+.vert ul{
+	font-family: arial,helvetica,sans-serif;
+	margin: 0;
+        padding:0;
+	font-size: 21px;
+        text-align: right;
+	text-decoration: none;
+}
+
+.vert ul li {
+	background-color: #FFFFFA;
+	margin-bottom: 1px;
+	list-style:none;
+}
+.vert ul li a {
+	display: block;
+	color: #000000;
+	padding-right: 0.2em;
+	text-decoration: none;
+	
+}
+.vert ul li a:hover {
+	background-color: #2F3597;
+	color:#FFF !important;
+	text-decoration:none;
+}
+.vert ul li a.active {
+	background-color:#2F3597;
+	color:#FFF;
+	text-decoration:none;
+}
