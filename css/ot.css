@@ -73,6 +73,9 @@ hr {
 	height: 140px;
 	width: 940px;
 }
+.shiftright {
+		margin-left: 20px;
+}
 /* ---- Start of Content section ---- */
 .content {
 	background-color: #FFFFFA;
@@ -86,7 +89,7 @@ hr {
 /* ---- Horizontal menu section ---- */
 .horz {
 	border-bottom:1px solid #2F3597;
-        border-top:1px solid #2F3597;
+	border-top:1px solid #2F3597;
 	height: 40px;
 } 
 .horz ul{
@@ -94,7 +97,7 @@ hr {
         color: #000;
         font-family: arial,helvetica,sans-serif;
         padding:0;
-	margin-left: 200px;
+	margin-left: 140px;
 	white-space: nowrap;
         font-size: 21px;
         padding-left: 22px;
