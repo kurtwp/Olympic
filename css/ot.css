@@ -59,6 +59,18 @@ hr {
 	text-indent: 0;
 	
 }
+.stext {
+  color: #333;
+	font-size: 15px;
+	padding-bottom: 20px;
+	text-indent: 0;
+}
+.subtext {
+  color: #2F3597;
+	font-size: 15px;
+	padding-bottom: 10px;
+	text-indent: 0;
+}
 /* ---- End of Text Formatting Section ----*/
 .border{
 	border-top-color: #048F4B;
