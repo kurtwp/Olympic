@@ -46,7 +46,6 @@ hr {
 	padding: 7px;
 	margin-top: 10px !important;
 }
-
 .ptext {
 	color: #333;
 	font-size: 15px;
@@ -57,13 +56,11 @@ hr {
 	font-size: 18px;
 	padding: 0 0 0 5px;
 	text-indent: 0;
-	
 }
 .stext {
   color: #333;
 	font-size: 15px;
-	padding-bottom: 20px;
-	text-indent: 0;
+	text-indent: 30px;
 }
 .subtext {
   color: #2F3597;
