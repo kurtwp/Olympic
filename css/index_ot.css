@@ -1,0 +1,84 @@
+#header {
+	background: #2F3597;
+	color: #FFF;
+	padding-top: 10px !important;
+	padding-bottom: 10px !important;
+	text-align: center;
+}
+footer {
+	color: #CCC;
+	font-size: small !important;
+	height: 25px;
+}
+h1 {
+	color: #FFF !important;
+}
+hr {
+	background: #2F3597 !important;
+	height: 1px !important;
+	padding: 0 !important;
+}
+
+.border{
+	border-top-color: #048F4B;
+	border-top-width: 5px;
+	height: 5px;
+}
+.top {
+	background-color: #FFFFFA;
+	margin: 0 5px 0 5px;
+	padding-bottom: 15px !important;
+	position: relative;
+	height: 140px;
+	width: 940px;
+}
+.shiftright {
+		margin-left: 20px;
+}
+.xltext {
+	color: #000 !important;
+	font-size: 45px;
+	font-weight: 200;
+	margin: 0;
+	padding-bottom: 0;
+	padding-top: 30px;
+	
+}
+/* ---- Horizontal menu section ---- */
+.horz {
+	border-bottom:1px solid #2F3597;
+	border-top:1px solid #2F3597;
+	height: 40px;
+} 
+.horz ul{
+  color: #000;
+  font-family: arial,helvetica,sans-serif;
+  padding:0;
+	margin-left: 140px;
+	white-space: nowrap;
+  font-size: 21px;
+  padding-left: 22px;
+  padding-right: 22px;
+  text-decoration: none;
+}
+.horz ul li {
+	float:left;
+	list-style:none;
+}
+.horz ul li a {
+  color: #000000;
+  float: left;
+  padding: 0.2em 1em;
+  text-decoration: none;
+}
+.horz ul li a:hover {
+	background: #2F3597;
+	color:#FFF !important;
+	text-decoration:none;
+}
+.horz ul li a.active {
+	background-color:#2F3597;
+	color:#FFF;
+	text-decoration:none;
+}
+/* ---- End of Horizontal Menus section ---- */

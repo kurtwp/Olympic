@@ -1,61 +1,77 @@
+body {
+	background-color: #2F3597 !important;
+}
+#container {
+	width:950px;
+	padding-top: 5px;
+	margin:20px auto;
+}
 .ccolor {
 background-color: #0A8BC5;
 font-size:75%;
 font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
 }
-/* * {
-   border: 1px solid red !important;
-}*/
-#header {
-	background: #2F3597;
+#content {
+	background-color: #FFFFFA;
+	background-image: url('../images/blue-background.png');
+	background-repeat: repeat-y;
+	float:left;
+	margin: 0px 5px 5px 0px;
+	padding-left: 7px;
+	padding-right: 3px;
+	padding-top: 5px; 
+	width:717px;
+	border-left: 213px solid #EAE5E5;
+	text-align: left;
+}
+#index_header {
+	background: #2F3597 !important;
 	color: #FFF;
 	padding-top: 10px !important;
 	padding-bottom: 10px !important;
 }
-footer {
+#sidebar {
+	background: #EAE5E5;
+	float:left;
+	width:212px;
+	margin-right: -212px;
+	position: relative
+}
+#footer {
 	color: #CCC;
 	font-size: small !important;
 	height: 25px;
+	clear:both;
 }
-h1 {
-	color: #FFF !important;
-}
-hr {
-	background: #2F3597 !important;
-	height: 1px !important;
-	padding: 0 !important;
-}
-/* ---- Text Formatting Sections ----*/ 
-.ctext {
-	color: #2F3597;
-	font-size: 25px;
-	padding: 0;
-	text-transform: lowercase;
-}
-.xltext {
-	color: #000 !important;
-	font-size: 45px;
-	font-weight: 200;
-	margin: 0;
-	padding-bottom: 0;
-	padding-top: 30px;
-	
+#header {
+	background-color: #FFFFFA;
+	margin: 0 5px 0 5px;
+	padding-bottom: 15px !important;
+	position: relative;
+	height: 140px;
+	width: 940px;
 }
 .addtext {
 	font-size: 30px !important;
 	padding: 7px;
 	margin-top: 10px !important;
 }
-.ptext {
-	color: #333;
-	font-size: 15px;
-	text-indent: 0px;
-}
 .atext {
 	color: #333;
 	font-size: 18px;
 	padding: 0 0 0 5px;
 	text-indent: 0;
+}
+.ctext {
+	color: #2F3597;
+	font-size: 25px;
+	padding: 0;
+	text-transform: lowercase;
+}
+.ptext {
+	color: #333;
+	font-size: 15px;
+	text-indent: 0px;
 }
 .stext {
   color: #333;
@@ -68,74 +84,6 @@ hr {
 	padding-bottom: 10px;
 	text-indent: 0;
 }
-/* ---- End of Text Formatting Section ----*/
-.border{
-	border-top-color: #048F4B;
-	border-top-width: 5px;
-	height: 5px;
-}
-.top {
-	background-color: #FFFFFA;
-	margin: 0 5px 0 5px;
-	padding-bottom: 15px !important;
-	position: relative;
-	height: 140px;
-	width: 940px;
-}
-.shiftright {
-		margin-left: 20px;
-}
-/* ---- Start of Content section ---- */
-.content {
-	background-color: #FFFFFA;
-	float: right;
-	margin: 0px 5px 5px 0px;
-	padding-left: 3px;
-	padding-top: 5px; 
-	width: 720px;
-}
-/* ---- End of Content section  ---- */
-/* ---- Horizontal menu section ---- */
-.horz {
-	border-bottom:1px solid #2F3597;
-	border-top:1px solid #2F3597;
-	height: 40px;
-} 
-.horz ul{
-	
-        color: #000;
-        font-family: arial,helvetica,sans-serif;
-        padding:0;
-	margin-left: 140px;
-	white-space: nowrap;
-        font-size: 21px;
-        padding-left: 22px;
-        padding-right: 22px;
-        text-decoration: none;
-}
-
-.horz ul li {
-	float:left;
-	list-style:none;
-}
-.horz ul li a {
-    color: #000000;
-    float: left;
-    padding: 0.2em 1em;
-    text-decoration: none;
-	
-}
-.horz ul li a:hover {
-	background: #2F3597;
-	color:#FFF !important;
-	text-decoration:none;
-}
-.horz ul li a.active {
-	background-color:#2F3597;
-	color:#FFF;
-	text-decoration:none;
-}
-/* ---- End of Horizontal Menus section ---- */
 /* ---- Start of Vertical Menu Section ---- */
 .vert {
 	clear: both;
@@ -147,15 +95,15 @@ hr {
 .vert ul{
 	font-family: arial,helvetica,sans-serif;
 	margin: 0;
-        padding:0;
+  padding:0;
 	font-size: 21px;
-        text-align: right;
+  text-align: right;
 	text-decoration: none;
 }
-
 .vert ul li {
+	border-bottom: 1px solid #0A8BC5;
 	background-color: #FFFFFA;
-	margin-bottom: 1px;
+	/*margin-bottom: 1px;*/
 	list-style:none;
 }
 .vert ul li a {
