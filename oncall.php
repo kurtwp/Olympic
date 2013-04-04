@@ -31,7 +31,7 @@ require_once 'header.html';
         offered on an ala-carte basis for central location stops.  If your 
         student is in need of a ride, phone Olympic to see if we have a seat 
         available.  If a seat is available you can visit our website at 
-        www.rideolympic.com and fill out a Minor Liability Waiver.  This Waiver 
+        www.rideolympic.com and fill out a <a href="forms.php">Minor Liability Waiver</a>.  This Waiver 
         must be received prior to the student riding on Olympic. Once the Waiver 
         is received, your driver will be notified to pick up your student and 
         transport them to or from school.  This service is offered on a daily 
