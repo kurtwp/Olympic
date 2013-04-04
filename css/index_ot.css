@@ -49,6 +49,7 @@ hr {
 	border-bottom:1px solid #2F3597;
 	border-top:1px solid #2F3597;
 	height: 40px;
+	position: relative;
 } 
 .horz ul{
   color: #000;
@@ -82,3 +83,43 @@ hr {
 	text-decoration:none;
 }
 /* ---- End of Horizontal Menus section ---- */
+/* New Horizontal Drop Down ---------------- */
+.horz ul li ul {
+    display: none;
+    width: 170px;
+	 position:absolute;
+	 bottom: 40px; /* pushes menu up */
+	 padding:0px;
+	 margin:0px;
+	 background: #FFFFFF;
+   
+}
+.horz ul li:hover ul {
+    display: block;
+    position: absolute;
+	margin: 0;
+	padding: 0;
+	width: 170px;
+	
+}
+.horz ul li:hover li
+{
+	float: none;
+ 	list-style:none;
+	padding: 0;
+	margin:0px;
+	width: 170px;
+	
+}
+.horz ul li:hover li a
+{
+    color: #000;
+	padding:0 10px;
+	display:block;
+	width: 150px;
+	border: 1px solid #2F3597 !important;
+}
+.horz ul li li a:hover
+{
+ 	color:#000;
+}

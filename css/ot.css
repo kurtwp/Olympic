@@ -74,7 +74,7 @@ font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
 	text-indent: 0px;
 }
 .stext {
-  color: #333;
+	color: #333;
 	font-size: 15px;
 	text-indent: 30px;
 }
@@ -83,6 +83,12 @@ font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
 	font-size: 15px;
 	padding-bottom: 10px;
 	text-indent: 0;
+}
+/* used for on call page list */
+.ocli {
+	color: #333;
+	font-size: 15px !important;
+	margin-left: 50px !important;
 }
 /* ---- Start of Vertical Menu Section ---- */
 .vert {
@@ -105,6 +111,7 @@ font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
 	background-color: #FFFFFA;
 	/*margin-bottom: 1px;*/
 	list-style:none;
+	position: relative;
 }
 .vert ul li a {
 	display: block;
@@ -122,4 +129,20 @@ font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
 	background-color:#2F3597;
 	color:#FFF;
 	text-decoration:none;
+}
+/* New vert Config */
+.vert ul ul {
+    display: none;
+    top: 0;
+    position: absolute;
+    left: 214px;
+    width: 185px !important;
+	border: 1px solid #0A8BC5 !important;
+	text-align: center;
+}
+.vert li:hover ul {
+    display: block;
+    position: absolute;
+	margin: 0;
+	padding: 0;
 }
