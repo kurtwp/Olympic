@@ -7,8 +7,14 @@
     <title>OLYMPIC TRANSPORTATAION, LLC</title>
     <meta name="author" content="Kurt Pasewaldt" />
     <meta name="description" content= "Olympic Transportation, LLC - Servicing all your Chartering needs" />
-    <meta name="keywords" content= "transportation, hauling, busing, taxi, birthdays, people, moving, transport, schools, chartering, private, public, football, sports, activities, huntersville, davidson, charlotte, mecklenburg, mecklenburg county, cornelius, north caroline, iredell, iredell county, mooresville, pine lake prep, " />
+    <meta name="keywords" content= "transportation, hauling, busing, taxi, birthdays, people, moving, transport, schools, chartering, private, public, football, sports, activities, huntersville, davidson, charlotte, mecklenburg, mecklenburg county, cornelius, north caroline, iredell, iredell county, mooresville, pine lake prep, mount island, charter school transportation" />
     <meta CHARSET="UTF-8">
+    <meta property="og:title" content="Olympic Transportation" />
+    <meta property="og:type" content="company" />
+    <meta property="og:url" content="http://www.olympictransportation.net" />
+    <meta property="og:image" content="" />
+    <meta property="og:site_name" content="Olympic Transportation" />
+    <meta property="fb:app_id" content="380248665336027" />
     <!-- Customer Olympic CSS -->
     <link href="css/index_ot.css" rel="stylesheet" type="text/css" />
     <!-- BluePrint Framework -->
@@ -42,6 +48,16 @@
 <!-- End Google Analytics Code -->
 </head>
 <body>
+<!-- FACEBOOK SDK -->
+   <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- END FACEBOOK SDK -->
 <div class="container">
   <div id="header" >
   <header>
@@ -58,17 +74,26 @@
   <div class="horz">
    <ul>
       <li><a class="active" href="#">Home</a></li>
-      <li><a href="services.html">Services</a></li>
-      <li><a href="about.html">About</a></li> 
-      <li><a href="contact.html">Contact</a></li>
-      <li><a href="forms.html">Forms</a></li>
-      <li><a href="specials.html">Specials</a></li>
+ <!--     <li><a href="services.html">Services</a></li> -->
+	  <li><a href="#">Services</a>
+			<ul>
+				<li><a href="cschool.php">Charter Schools</a></li>
+				<li><a href="oncall.php">On Call</a></li>
+			<!--	<li><a href="pcharter.php">Private Charter</a></li>
+				<li><a href="sumcamp.php">Summer Camp</a></li> -->
+			</ul>
+	  </li>
+      <li><a href="about.php">About</a></li> 
+      <li><a href="contact.php">Contact</a></li>
+      <li><a href="forms.php">Forms</a></li>
+      <li><a href="specials.php">Specials</a></li>
   </ul>
+   <div class="fb-like" data-href="http://olympictransportation.net " data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
   </div>
   <br />
   <br />
   <footer class="span-24 prepend-top">
-    <p class="small" style="float:left"> ©2012 Olympic Transportation, LLC - All Rights Reserved. </p>
+    <p class="small" style="float:left"> ©2013 Olympic Transportation - All Rights Reserved. </p>
     <div class="small prepend-22">Pasewaldt.com</div>
   </footer>
 </div>
