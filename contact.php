@@ -15,8 +15,8 @@
         <ul>
             <li><a href="cschool.php">Charter Schools</a></li>
 			<li><a href="oncall.php">On Call</a></li>
-		<!--	<li><a href="pcharter.php">Private Charter</a></li>
-			<li><a href="sumcamp.php">Summer Camp</a></li> -->
+			<li><a href="pcharter.php">Private Charter</a></li>
+		<!--	<li><a href="sumcamp.php">Summer Camp</a></li> -->
         </ul>
       </li>
       <li><a href="about.php">About</a></li>
