@@ -5,7 +5,7 @@
 <div id="container" class="ccolor">
 	<div id="header">
 		<img class="prepend-2" src="images/olympic-logo-FINAL.jpg" alt="olympic logo image" style="float:left"/>
-    <div class="push-3 addtext alt">Servicing all your<br />Chartering Needs</div>
+    <div class="push-3 alt" id="addtext">Servicing all your<br />Chartering Needs</div>
 	
 	</div>
 	<div id="sidebar" class="vert">

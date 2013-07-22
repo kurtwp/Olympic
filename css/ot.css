@@ -51,8 +51,13 @@ font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
 	height: 140px;
 	width: 940px;
 }
+#addtext {
+    font-size: 30px !important;
+    padding: 7px;
+    margin-top: 10px !important;
+}
 .addtext {
-	font-size: 30px !important;
+	font-size: 23px !important;
 	padding: 7px;
 	margin-top: 10px !important;
 }
@@ -83,6 +88,13 @@ font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
 	font-size: 15px;
 	padding-bottom: 10px;
 	text-indent: 0;
+}
+/* Used to center a cell in a table */
+.center-cell {
+    text-align: center !important;
+    color: #333;
+    font: bolder;
+    font-size: 18px;
 }
 /* used for on call page list */
 .ocli {

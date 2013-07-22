@@ -27,11 +27,10 @@ require_once 'header.html';
 	<div id="content">
 		<p class="ctext"> on call services </p>
     <p class="stext"> "Olympic On Call" is a new service currently being offered for the 
-        balance of the school year. Morning and afternoon pick ups are being 
+        upcoming school year. Morning and afternoon pick ups are being
         offered on an ala-carte basis for central location stops.  If your 
-        student is in need of a ride, phone Olympic to see if we have a seat 
-        available.  If a seat is available you can visit our website at 
-        www.rideolympic.com and fill out a <a href="forms.php">Minor Liability Waiver</a>.  This Waiver 
+        student is in need of a ride, phone Olympic to see if we have a seat
+        available.  If a seat is available, fill out a <a href="forms.php">Minor Liability Waiver</a>.  This Waiver
         must be received prior to the student riding on Olympic. Once the Waiver 
         is received, your driver will be notified to pick up your student and 
         transport them to or from school.  This service is offered on a daily 
@@ -47,20 +46,23 @@ require_once 'header.html';
         <h3 class="stext"> MICS: </h3>
         <ul class="ocli">
             <li>Mickey' Bistro (old statesville road and 115)</li>
-            <li>Wynfield Creek Parkway (closest to Gilead)</li>
+            <li>Wynfield Creek</li>
             <li>Stephens Grove</li>
             <li>Corner of Beatties Ford and 73</li>
             <li>Corner of Mt Holly Huntersville Road and Beatties Ford</li>
         </ul>
         <h3 class="stext">PLP:</h3>
         <ul class="ocli">
+	        <li>Mickey' Bistro (old statesville road and 115)</li>
             <li>Northstone Club House</li>
             <li>MacAulay Club House</li>
+	        <li>Birkdale Club House</li>
             <li>Victoria Bay</li>
             <li>Antiquity</li>
-            <li>Corner of Feriba and Townwood Cornelius</li>
             <li>Peninsula</li>
             <li>Corner of 115 and 73</li>
+	        <li>Clarke Creek Parkway</li>
+	        <li>Edison Square</li>
         </ul>
 	</div>
     

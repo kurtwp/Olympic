@@ -28,7 +28,107 @@ require_once 'header.html';
 		<p class="ctext"> charter school services </p>
     <p class="stext">
       Olympic offers one way or round trip transportation services to local charter, private and public schools.  We can transport your student rider from a convenient central location directly to your local school in a safe, clean, friendly and professional environment.  Olympic is currently servicing Pine Lake Preparatory and Mountain Island Charter School from various locations in the Huntersville, Cornelius, and Davidson areas.  Please call for further details and information.</p>
-    </div>
+		<table>
+			<thead>
+				<tr><td colspan="3" class="center-cell">Mountain Island Charter School</td></tr>
+			</thead>
+			<tr class="stext">
+				<th >Pick up Locations</th>
+				<th>AM Departure</th>
+				<th>PM Arrival</th>
+			</tr>
+			<tr class="stext" >
+				<td>Mickey' Bistro (old statesville road and 115)</td>
+				<td>6:50</td>
+				<td>3:45</td>
+			</tr>
+			<tr class="stext">
+				<td>Wynfield Creek</td>
+				<td>7:00</td>
+				<td>3:50</td>
+			</tr>
+			<tr class="stext">
+				<td>Stephens Grove</td>
+				<td>7:10</td>
+				<td>3:35</td>
+			</tr>
+			<tr class="stext">
+				<td>Corner of Beatties Ford and 73</td>
+				<td>7:15</td>
+				<td>3:30</td>
+			</tr>
+		</table>
+		<table>
+			<thead>
+				<tr><td colspan="3" class="center-cell">Pine Lake Preparatory</td></tr>
+			</thead>
+			<tr class="stext">
+				<th>Pick up Locations</th>
+				<th>AM Departure</th>
+				<th>PM Arrival</th>
+			</tr>
+			<tr class="stext">
+				<td>MacAulay Clubhouse</td>
+				<td>6:55 & 7:00</td>
+				<td>3:45 & 3:50</td>
+			</tr>
+			<tr class="stext">
+				<td>Mickey's Bistro</td>
+				<td>6:45</td>
+				<td> - </td>
+			</tr>
+			<tr class="stext">
+				<td>Birkdale Clubhouse</td>
+				<td>7:00</td>
+				<td> - </td>
+			</tr>
+			<tr class="stext">
+				<td>Clarke Creek Parkway</td>
+				<td> 6:50</td>
+				<td> - </td>
+			</tr>
+			<tr class="stext">
+				<td>Edison Square</td>
+				<td>7:00</td>
+				<td> - </td>
+			</tr>
+			<tr class="stext">
+				<td>Antiquity</td>
+				<td> - </td>
+				<td>3:35</td>
+			</tr>
+			<tr class="stext">
+				<td>Victoria Bay</td>
+				<td> - </td>
+				<td>3:35</td>
+			</tr>
+			<tr class="stext">
+				<td>Peninsula</td>
+				<td> - </td>
+				<td>4:00</td>
+			</tr>
+			<tr class="stext">
+				<td>Corner of 115 & 73</td>
+				<td> - </td>
+				<td>3:25</td>
+			</tr>
+			<tr class="stext">
+				<td>Northstone Clubhouse</td>
+				<td> - </td>
+				<td>3:35</td>
+			</tr>
+			<tr class="stext">
+				<td>Centennial </td>
+				<td> - </td>
+				<td>4:00</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+		</table>
+	</div>
     
 <?php
 require_once 'footer.html';
