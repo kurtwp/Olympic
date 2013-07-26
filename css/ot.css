@@ -96,6 +96,12 @@ font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
     font: bolder;
     font-size: 18px;
 }
+/* Used to align facebook button t right */
+.fb-right {
+    float: right;
+    margin-right: -300px;
+    padding-top: 10px;
+}
 /* used for on call page list */
 .ocli {
 	color: #333;

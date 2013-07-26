@@ -99,7 +99,7 @@ require_once 'header.html';
 			<tr class="stext">
 				<td>Antiquity</td>
 				<td> - </td>
-				<td>3:35</td>added pick up times and correct ot.css addtext size
+				<td>3:35</td>
 			</tr>
 			<tr class="stext">
 				<td>Victoria Bay</td>
