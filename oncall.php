@@ -25,7 +25,9 @@ require_once 'header.html';
   </ul>
  	</div>
 	<div id="content">
-		<p class="ctext"> on call services </p>
+		<p class="ctext"> on call services
+			<iframe class="fb-right" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.rideolympic.com&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;font=arial&amp;colorscheme=light&amp;action=recommend&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe>
+		</p>
     <p class="stext"> "Olympic On Call" is a new service currently being offered for the 
         upcoming school year. Morning and afternoon pick ups are being
         offered on an ala-carte basis for central location stops.  If your 

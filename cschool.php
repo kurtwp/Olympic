@@ -23,9 +23,13 @@ require_once 'header.html';
       <li><a href="contact.php">Contact</a></li>
       <li><a href="forms.php">Forms</a></li>
   </ul>
+
  	</div>
 	<div id="content">
-		<p class="ctext"> charter school services </p>
+		<p class="ctext"> charter school services
+			<iframe class="fb-right" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.rideolympic.com&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;font=arial&amp;colorscheme=light&amp;action=recommend&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe>
+		</p>
+
     <p class="stext">
       Olympic offers one way or round trip transportation services to local charter, private and public schools.  We can transport your student rider from a convenient central location directly to your local school in a safe, clean, friendly and professional environment.  Olympic is currently servicing Pine Lake Preparatory and Mountain Island Charter School from various locations in the Huntersville, Cornelius, and Davidson areas.  Please call for further details and information.</p>
 		<table>
@@ -95,7 +99,7 @@ require_once 'header.html';
 			<tr class="stext">
 				<td>Antiquity</td>
 				<td> - </td>
-				<td>3:35</td>
+				<td>3:35</td>added pick up times and correct ot.css addtext size
 			</tr>
 			<tr class="stext">
 				<td>Victoria Bay</td>
