@@ -14,16 +14,10 @@
    </ul>
  	</div>
 	<div id="content">
-		<p class="ctext">April special</p>
-		<p class="subtext prepend-1">This special offer is only extended to new clients and new student riders to Olympic:</p>
-		<p class="ptext">April is no fools when it comes to car pool!  Olympic is offering one way morning OR one-way afternoon transportation from the Pine Lake Prep Campus for the entire month of April for <strong>$32.00</strong> per rider. That’s only $2.00 per day!  Sibling discounts do not apply to this offer. Pick up and drop off must be at designated central location.  This offer <strong>expires on April 12, 2013</strong>.  Afternoon seats are limited – call 704-450-3289 for additional information.   Central locations are located in Antiquity, Peninsula, Victoria Bay, Northstone, MacAulay, Birkdale.</p><br />
-		<p class="ctext">January special</p>
-		<p class="subtext prepend-1">This special offer is only extended to new clients and new student riders to Olympic:</p>
-		<p class="ptext">Happy New Year!  Olympic is offering a 50% discount on one way or round trip fares for the month of January to/from the Pine Lake Campus.  Central location pick up or drop off areas are Northstone subdivision and MacAulay subdivision.  The morning transportation to Pine Lake is limited to US and MS students.  The afternoon transportation is for all LS, MS, and US students.  The round trip fare is reduced to <strong>$65</strong> for the month; the one way fare is reduced to <strong>$40</strong> for the month.  Sibling discounts do not apply to this offer.  This offer <strong>expires on January 10, 2013</strong>!  Call 704-450-3289 to reserve your spot!  Seats are limited. </p><br />
-		<p class="ctext"> December special </p>
-		<p class="subtext prepend-1"> This special offer is only extended to new clients and new student riders to Olympic:</p>
-		<p class="ptext">December may be a short school month however those few days are packed with quite a bit of activity!  In an attempt to give families back the gift of time, Olympic is offering one way morning OR one-way afternoon transportation from the Pine Lake Prep Campus for the entire month of December for <strong>$25.00</strong> per rider.  Sibling discounts do not apply to this offer. Pick up and drop off must be at designated central location.  This offer <strong>expires on December 4, 2012</strong>.  Seats are limited – call 704-450-3289 for additional information.</p><br />
-	</div>
+        <p class="ctext">September special</p>
+        <p class="subtext prepend-1">This special offer is only extended to new clients and new student riders to Olympic:</p>
+        <p class="ptext">In celebration of completing our 2nd year in operation Olympic is offering one way morning or one way afternoon transportation to either Pine Lake Preparatory or Mountain Island Charter school for the entire month of September for <strong>$45.00</strong>.  That’s 8+26+11!  Price is per student and sibling discounts do not apply.  Check out the web site <a href="www.rideolympic.com">www.rideolympic.com</a> for pick up and drop off locations and times.  The offer expires on <strong>Monday, September 9, 2013</strong>.  Seats are limited.  Call 704-450-3289 to reserve your spot! </p><br />
+    </div>
 <?php
 	require_once 'footer.html';
 ?>
