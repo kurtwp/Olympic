@@ -48,7 +48,7 @@ require_once 'header.html';
                 <td> - </td>
             </tr>
             <tr class="stext">
-                <td>FoodLion (corner of statesville rd and gilead rd</td>
+                <td>FoodLion (corner of statesville rd and gilead rd)</td>
                 <td>7:45</td>
                 <td>2:50</td>
             </tr>
