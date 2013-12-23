@@ -32,8 +32,33 @@ require_once 'header.html';
              <iframe class="fb-right" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.olympictransportation.net&amp;width=450&amp;height=46&amp;colorscheme=light&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;send=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:46px;" allowTransparency="true"></iframe>
         </p>
         <p class="stext">
-      Olympic offers one way or round trip transportation services to local charter, private and public schools.  We can transport your student rider from a convenient central location directly to your local school in a safe, clean, friendly and professional environment.  Olympic is currently servicing Pine Lake Preparatory and Mountain Island Charter School from various locations in the Huntersville, Cornelius, and Davidson areas.  Please call for further details and information.</p>
-		<table>
+      Olympic offers one way or round trip transportation services to local charter, private and public schools.  We can transport your student rider from a convenient central location directly to your local school in a safe, clean, friendly and professional environment.  Olympic is currently servicing Corvian Charter School, Pine Lake Preparatory, and Mountain Island Charter School from various locations in the Huntersville, Cornelius, and Davidson areas.  Please call for further details and information.</p>
+        <table>
+            <thead>
+            <tr><td colspan="3" class="center-cell">Corvian Charter School</td></tr>
+            </thead>
+            <tr class="stext">
+                <th >Pick up Locations</th>
+                <th>AM Departure</th>
+                <th>PM Arrival</th>
+            </tr>
+            <tr class="stext" >
+                <td>Tenders (corner of statesville rd and westmoreland rd)</td>
+                <td>7:30</td>
+                <td> - </td>
+            </tr>
+            <tr class="stext">
+                <td>FoodLion (corner of statesville rd and gilead rd</td>
+                <td>7:45</td>
+                <td>2:50</td>
+            </tr>
+            <tr class="stext">
+                <td>Hampton Inn (statesville rd) </td>
+                <td> - </td>
+                <td>3:05</td>
+            </tr>
+        </table>
+        <table>
 			<thead>
 				<tr><td colspan="3" class="center-cell">Mountain Island Charter School</td></tr>
 			</thead>
