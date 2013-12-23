@@ -32,10 +32,10 @@ require_once 'header.html';
              <iframe class="fb-right" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.olympictransportation.net&amp;width=450&amp;height=46&amp;colorscheme=light&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;send=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:46px;" allowTransparency="true"></iframe>
         </p>
         <p class="stext">
-      Olympic offers one way or round trip transportation services to local charter, private and public schools.  We can transport your student rider from a convenient central location directly to your local school in a safe, clean, friendly and professional environment.  Olympic is currently servicing Corvian Charter School, Pine Lake Preparatory, and Mountain Island Charter School from various locations in the Huntersville, Cornelius, and Davidson areas.  Please call for further details and information.</p>
+      Olympic offers one way or round trip transportation services to local charter, private and public schools.  We can transport your student rider from a convenient central location directly to your local school in a safe, clean, friendly and professional environment.  Olympic is currently servicing Corvian Community School, Pine Lake Preparatory, and Mountain Island Charter School from various locations in the Huntersville, Cornelius, and Davidson areas.  Please call for further details and information.</p>
         <table>
             <thead>
-            <tr><td colspan="3" class="center-cell">Corvian Charter School</td></tr>
+            <tr><td colspan="3" class="center-cell">Corvian Community School</td></tr>
             </thead>
             <tr class="stext">
                 <th >Pick up Locations</th>
