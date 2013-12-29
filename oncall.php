@@ -26,7 +26,7 @@ require_once 'header.html';
  	</div>
 	<div id="content">
 		<p class="ctext"> on call services
-			<iframe class="fb-right" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.rideolympic.com&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;font=arial&amp;colorscheme=light&amp;action=recommend&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe>
+            <iframe class="fb-right" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.olympictransportation.net&amp;width=450&amp;height=46&amp;colorscheme=light&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;send=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:46px;" allowTransparency="true"></iframe>
 		</p>
     <p class="stext"> "Olympic On Call" is a new service currently being offered for the 
         upcoming school year. Morning and afternoon pick ups are being
@@ -36,7 +36,7 @@ require_once 'header.html';
         must be received prior to the student riding on Olympic. Once the Waiver 
         is received, your driver will be notified to pick up your student and 
         transport them to or from school.  This service is offered on a daily 
-        basis for any student attending either Pine Lake Preparatory or Mountain 
+        basis for any student attending Corvian Community School, Pine Lake Preparatory or Mountain
         Island Charter School.  Current families who ride Olympic can also 
         utilize this service as an add-on to their existing plan.  This is a 
         great opportunity for those families who need a ride to school just 
