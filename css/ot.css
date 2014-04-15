@@ -89,6 +89,9 @@ font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
 	padding-bottom: 10px;
 	text-indent: 0;
 }
+.ppara {
+	margin: 0px 0px 1em !important;
+}
 /* Used to center a cell in a table */
 .center-cell {
     text-align: center !important;
@@ -96,10 +99,10 @@ font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
     font: bolder;
     font-size: 18px;
 }
-/* Used to align facebook button t right */
+/* Used to align facebook iframe like button to the right */
 .fb-right {
     float: right;
-    margin-right: -300px;
+    margin-right: -330px;
     padding-top: 10px;
 }
 /* used for on call page list */
