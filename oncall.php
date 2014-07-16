@@ -31,41 +31,22 @@ require_once 'header.html';
     <p class="stext"> "Olympic On Call" is a new service currently being offered for the 
         upcoming school year. Morning and afternoon pick ups are being
         offered on an ala-carte basis for central location stops.  If your 
-        student is in need of a ride, phone Olympic to see if we have a seat
-        available.  If a seat is available, fill out a <a href="forms.php">Minor Liability Waiver</a>.  This Waiver
+        student is in need of a ride, <strong>phone Olympic to see if we have a seat
+        available.</strong>  If a seat is available, fill out a <a class="ptext" href="downloads/MinorLiabilityWaiver.pdf">Minor Liability Waiver</a>.  This Waiver
         must be received prior to the student riding on Olympic. Once the Waiver 
         is received, your driver will be notified to pick up your student and 
         transport them to or from school.  This service is offered on a daily 
-        basis for any student attending Corvian Community School, Pine Lake Preparatory or Mountain
-        Island Charter School.  Current families who ride Olympic can also 
+        basis for any student attending Corvian Community School, Lake Norman Charter, Mountain
+        Island Charter School or Pine Lake Preparatory.  Current families who ride Olympic can also 
         utilize this service as an add-on to their existing plan.  This is a 
         great opportunity for those families who need a ride to school just 
         once-in-a-while or as a last minute need.  The fee for the service is 
         $5.00 each way.  Sibling discounts do not apply to this offer.
-      </p><br />
-    
-        <p class="stext">The central location stops are: </p>
-        <h3 class="stext"> MICS: </h3>
-        <ul class="ocli">
-            <li>Mickey' Bistro (old statesville road and 115)</li>
-            <li>Wynfield Creek</li>
-            <li>Stephens Grove</li>
-            <li>Corner of Beatties Ford and 73</li>
-            <li>Corner of Mt Holly Huntersville Road and Beatties Ford</li>
-        </ul>
-        <h3 class="stext">PLP:</h3>
-        <ul class="ocli">
-	        <li>Mickey' Bistro (old statesville road and 115)</li>
-            <li>Northstone Club House</li>
-            <li>MacAulay Club House</li>
-	        <li>Birkdale Club House</li>
-            <li>Victoria Bay</li>
-            <li>Antiquity</li>
-            <li>Peninsula</li>
-            <li>Corner of 115 and 73</li>
-	        <li>Clarke Creek Parkway</li>
-	        <li>Edison Square</li>
-        </ul>
+      </p>    
+        <p class="center-schedule">Corvian Community School central location <a href="school_ccs.php">stops and times</a>.</p>
+	<p class="center-schedule">Lake Norman Charter central location <a href="school_lnk.php">stops and times</a>.</p>
+	<p class="center-schedule">Mountain Island Charter School central location <a href="school_mics.php">stops and times</a>.</p>
+	<p class="center-schedule">Pine Lake Preparatory central location <a href="school_plp.php">stops and times</a>.</p>
 	</div>
     
 <?php

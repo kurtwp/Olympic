@@ -83,6 +83,11 @@ font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
 	font-size: 15px;
 	text-indent: 30px;
 }
+.lnktext {
+	color: #333;
+	font-size: 14px;
+	text-indent: 20px;
+}
 .subtext {
   color: #2F3597;
 	font-size: 15px;
@@ -91,6 +96,13 @@ font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
 }
 .ppara {
 	margin: 0px 0px 1em !important;
+}
+/* Used to center the School Schedule list */
+.center-schedule {
+	color: #333;
+	font: bolder;
+	font-size: 18px;
+	margin-top: 10px;
 }
 /* Used to center a cell in a table */
 .center-cell {
