@@ -43,7 +43,7 @@ require_once 'header.html';
         once-in-a-while or as a last minute need.  The fee for the service is 
         $5.00 each way.  Sibling discounts do not apply to this offer.
       </p>
-	<p class="center-schedule">Bradford Preparatory School Bus <a href="school_bps.php">Schedule</a></p>
+	<p class="center-schedule">Bradford Preparatory School central location <a href="school_bps.php">stops and times</a></p>
         <p class="center-schedule">Corvian Community School central location <a href="school_ccs.php">stops and times</a>.</p>
 	<p class="center-schedule">Lake Norman Charter central location <a href="school_lnk.php">stops and times</a>.</p>
 	<p class="center-schedule">Mountain Island Charter School central location <a href="school_mics.php">stops and times</a>.</p>
