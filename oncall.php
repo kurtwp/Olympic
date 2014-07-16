@@ -36,13 +36,14 @@ require_once 'header.html';
         must be received prior to the student riding on Olympic. Once the Waiver 
         is received, your driver will be notified to pick up your student and 
         transport them to or from school.  This service is offered on a daily 
-        basis for any student attending Corvian Community School, Lake Norman Charter, Mountain
+        basis for any student attending Bradford Preparatory School, Corvian Community School, Lake Norman Charter, Mountain
         Island Charter School or Pine Lake Preparatory.  Current families who ride Olympic can also 
         utilize this service as an add-on to their existing plan.  This is a 
         great opportunity for those families who need a ride to school just 
         once-in-a-while or as a last minute need.  The fee for the service is 
         $5.00 each way.  Sibling discounts do not apply to this offer.
-      </p>    
+      </p>
+	<p class="center-schedule">Bradford Preparatory School Bus <a href="school_bps.php">Schedule</a></p>
         <p class="center-schedule">Corvian Community School central location <a href="school_ccs.php">stops and times</a>.</p>
 	<p class="center-schedule">Lake Norman Charter central location <a href="school_lnk.php">stops and times</a>.</p>
 	<p class="center-schedule">Mountain Island Charter School central location <a href="school_mics.php">stops and times</a>.</p>
