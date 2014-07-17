@@ -5,7 +5,7 @@
 <div id="container" class="ccolor">
 	<div id="header">
 		<img class="prepend-2" src="images/olympic-logo-FINAL.jpg" alt="olympic logo image" style="float:left"/>
-    <div class="push-3 alt" id="addtext">Servicing all your<br />Chartering Needs</div>
+    <div class="push-3 addtext alt" >Servicing all your<br />Chartering Needs<br>(704)450-3289</div>
 	
 	</div>
 	<div id="sidebar" class="vert">
@@ -26,6 +26,7 @@
 </div>
     <div id="content">
 		<p class="ctext">Mountain Island Charter School</p>
+		<p class="stext"> Time are approximate and may change as needed.</p>
        <table>
             <thead>
             <tr><td colspan="3" class="center-cell"></td></tr>
@@ -36,7 +37,7 @@
                 <th>PM Arrival</th>
             </tr>
             <tr class="stext" >
-                <td> - </td>
+                <td> Coming Soon </td>
                 <td> - </td>
                 <td> - </td>
             </tr>
