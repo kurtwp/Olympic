@@ -37,19 +37,44 @@
                 <th>PM Arrival</th>
             </tr>
             <tr class="stext" >
-                <td> Coming Soon </td>
-                <td> - </td>
-                <td> - </td>
+                <td> Robert Walker Drive, Davidson </td>
+                <td> 7:10 </td>
+                <td> 3:25 </td>
             </tr>
             <tr class="stext">
-                <td> - </td>
-                <td> - </td>
-                <td> - </td>
+                <td> Hampton Inn, 19501 Statesville Road, Cornelius </td>
+                <td> 7:25 </td>
+                <td> 3:15 </td>
             </tr>
             <tr class="stext">
+                <td> Brookway Drive, Huntersville <br />(parking lot area by Journey Church and Asthma Center) </td>
+                <td> 7:35 </td>
                 <td> - </td>
+            </tr>
+	    <tr class="stext">
+                <td> Brookway Drive, Huntersville <br />(parking lot area by Journey Church and Asthma Center) </td>
+                <td> 7:35 </td>
                 <td> - </td>
+            </tr>
+	    <tr class="stext">
+                <td> Earth Fare, Huntersville <br />(this may be moved more towards the Goddard School but in the general direction of Earth Fare) </td>
+                <td> 7:45 </td>
+                <td> 3:00 </td>
+            </tr>
+	    <tr class="stext">
+                <td> University City United Methodist Church (all 5th graders will unload) </td>
+                <td> 8:00 </td>
+                <td> 2:15 </td>
+            </tr>
+	    <tr class="stext">
+                <td> Corvian Campus </td>
+                <td> 8:15 </td>
+                <td> 2:30 </td>
+            </tr>
+	    <tr class="stext">
+                <td> 9620 Northcross Center Court, Huntersville </td>
                 <td> - </td>
+                <td> 3:10 </td>
             </tr>
         </table>
     </div>
