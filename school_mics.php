@@ -37,20 +37,40 @@
                 <th>PM Arrival</th>
             </tr>
             <tr class="stext" >
-                <td> Coming Soon </td>
-                <td> - </td>
-                <td> - </td>
+                <td> Harvest Market Parking Lot <br />(Old Statesville Road, Huntersville) </td>
+                <td> 6:35 </td>
+                <td> 3:55 </td>
             </tr>
             <tr class="stext">
-                <td> - </td>
-                <td> - </td>
-                <td> - </td>
+                <td> Kenton Drive <br />(in former Lowes Food Market parking lot, Cornelius) </td>
+                <td> 6:40 </td>
+                <td> 3:50 </td>
             </tr>
             <tr class="stext">
-                <td> - </td>
-                <td> - </td>
-                <td> - </td>
+                <td> Stephens Grove Pool (Cathness Avenue, Huntersville) </td>
+                <td> 6:50 </td>
+                <td> 3:43 </td>
             </tr>
+	    <tr class="stext">
+                <td> Lancasters BBQ (Beatties Ford Road, Huntersville) </td>
+                <td> 7:00 </td>
+                <td> 3:30 </td>
+            </tr>
+	    <tr class="stext">
+                <td> Tesh's Grocery Store (Hambright Road, Huntersville) </td>
+                <td> - </td>
+                <td> 3:35 </td>
+            </tr>
+	    <tr class="stext">
+                <td> Carrington Ridge subdivision (Huntersville) </td>
+                <td> - </td>
+                <td> 3:40 </td>
+            </tr>
+	    <tr class="stext">
+                <td> Willow Breeze Lane (Huntersville) </td>
+                <td> - </td>
+                <td> 4:00 </td>
+	    </tr>
         </table>
     </div>
 <?php
