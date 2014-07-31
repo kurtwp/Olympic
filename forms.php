@@ -29,11 +29,8 @@
     <p class="ptext">Right mouse click on any of the forms below and select either "Save Target As" or "Save Link As"
 	to save the form to your hard drive.</p>
 		<br />
-		<p class="ctext ppara">Mountain Island Charter Forms</p>
-		<a class="ptext" href="downloads/MICS-Guide2Rider-Sign-Up.pdf">Guide to Rider Sign Up</a><br />
-		<a class="ptext" href="downloads/MICS-Proposed-Routes-Options.pdf">Proposed Routes, Options, and Pricing</a><br />
-		<a class="ptext" href="downloads/MICS-Sign-UP-Sheet-2014-2015.pdf">Sign up Sheet</a><br />
-		<a class="ptext" href="downloads/MinorLiabilityWaiver.pdf">Minor Liability Waiver</a><br />
+		<p class="ctext ppara">Forms</p>
+		
 		<a class="ptext" href="downloads/MICS-Bus-Rules-2014-2015.pdf">Bus Rules</a><br />
 		<img src="images/white162px.png" alt="white spacer" />
 	</div>
