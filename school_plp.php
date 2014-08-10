@@ -37,16 +37,71 @@
                 <th>PM Arrival</th>
             </tr>
             <tr class="stext" >
-                <td> Coming Soon </td>
-                <td> - </td>
-                <td> - </td>
-            </tr>
-            <tr class="stext">
-                <td> - </td>
-                <td> - </td>
+                <td> Vermillion (Warfield Avenue) </td>
+                <td> 6:35 </td>
                 <td> - </td>
             </tr>
             <tr class="stext">
+                <td>Olmsted (Lefferts House Place) </td>
+                <td> 6:50 </td>
+                <td> 3:55 </td>
+            </tr>
+            <tr class="stext">
+                <td> Highland Creek (Clark Creek Parkway Pool) </td>
+                <td> 6:55 </td>
+                <td> - </td>
+            </tr>
+	    <tr class="stext">
+                <td> Edison Square Drive </td>
+                <td> 7:00 </td>
+                <td> 4:00 </td>
+            </tr>
+	    <tr class="stext">
+                <td> Harvest Market (Old Statesville Road) </td>
+                <td> 7:00 </td>
+                <td> - </td>
+            </tr>
+	    <tr class="stext">
+                <td> MacAulay Club House (Hallaton Drive) </td>
+                <td> 7:05 </td>
+                <td> - </td>
+            </tr>
+	    <tr class="stext">
+                <td> Birkdale Pool (Devonshire) </td>
+                <td> 7:10 </td>
+                <td> - </td>
+            </tr>
+	    <tr class="stext">
+                <td> Peninsula (Cornelius) </td>
+                <td> - </td>
+                <td> 3:20 </td>
+            </tr>
+	    <tr class="stext">
+                <td> Antiquity (Inn Keeper Way and Zion Avenue) </td>
+                <td> - </td>
+                <td> 3:25 </td>
+            </tr>
+	    <tr class="stext">
+                <td> Birkdale (Knoxhill Road) </td>
+                <td> - </td>
+                <td> 3:40 </td>
+            </tr>
+	    <tr class="stext">
+                <td> Cedarfield (Stratton Farm Road & Cliffcreek Drive) </td>
+                <td> - </td>
+                <td> 3:40 </td>
+            </tr>
+	    <tr class="stext">
+                <td> Wynfield (Parkcrest St) </td>
+                <td> - </td>
+                <td> 3:50 </td>
+            </tr>
+	    <tr class="stext">
+                <td> Willow Breeze Lane </td>
+                <td> - </td>
+                <td> 4:20 </td>
+            </tr>
+	    <tr class="stext">
                 <td> - </td>
                 <td> - </td>
                 <td> - </td>
