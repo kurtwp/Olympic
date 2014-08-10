@@ -37,16 +37,26 @@
                 <th>PM Arrival</th>
             </tr>
             <tr class="stext" >
-                <td> Coming Soon </td>
-                <td> - </td>
-                <td> - </td>
+                <td> Corner of Peachmont and Bailey Road, Cornelius </td>
+                <td> 7:25 </td>
+                <td> 4:20 </td>
             </tr>
             <tr class="stext">
-                <td> - </td>
-                <td> - </td>
-                <td> - </td>
+                <td> Skybrook (Hillspring Drive) </td>
+                <td> 7:45 </td>
+                <td> 3:55 </td>
+            </tr>
+	    <tr class="stext">
+                <td> Highland Creek (Clarke Creek Parkway Pool) </td>
+                <td> 7:55 </td>
+                <td> 3:50 </td>
             </tr>
             <tr class="stext">
+                <td> Harvest Market </td>
+                <td> - </td>
+                <td> 4:30 </td>
+            </tr>
+	    <tr class="stext">
                 <td> - </td>
                 <td> - </td>
                 <td> - </td>
