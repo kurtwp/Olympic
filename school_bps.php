@@ -37,24 +37,24 @@
                 <th>PM Arrival</th>
             </tr>
             <tr class="stext" >
-                <td> Corner of Peachmont and Bailey Road, Cornelius </td>
+                <td> Harvest Market (15906 N Old Statesville Road, Huntersville) </td>
                 <td> 7:25 </td>
-                <td> 4:20 </td>
+                <td> 4:15 </td>
             </tr>
             <tr class="stext">
-                <td> Skybrook (Hillspring Drive) </td>
+                <td> Skybrook (9620 Hillspring Drive, Huntersville) </td>
                 <td> 7:45 </td>
-                <td> 3:55 </td>
+                <td> 4:00 </td>
             </tr>
 	    <tr class="stext">
-                <td> Highland Creek (Clarke Creek Parkway Pool) </td>
+                <td> Highland Creek <br />(6616 Clarke Creek Parkway Pool Huntersville) </td>
                 <td> 7:55 </td>
                 <td> 3:50 </td>
             </tr>
-            <tr class="stext">
-                <td> Harvest Market </td>
+	    <tr class="stext">
+                <td> Bailey Road & Peachmont Drive, Cornelius </td>
                 <td> - </td>
-                <td> 4:30 </td>
+                <td> 4:25 </td>
             </tr>
 	    <tr class="stext">
                 <td> - </td>
