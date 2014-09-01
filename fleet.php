@@ -14,10 +14,16 @@
    </ul>
  	</div>
 	<div id="content">
-        <p class="ctext">fleet</p>
-        <p class="ptext"> 2 - 14 passenger Eldorado buses </p>
-        <p class="ptext"> 2 - 12 passenger Turtle Top Van Terra buses </p>
-        <p class="ptext"> 1 - 25 passenger StarTrans Senator bus </p>
+        <p class="ctext">Executive Fleet</p>
+        <p class="ptext"> 2 - 12 passenger Turtle Top Van Terra vans </p>
+	<p class="ptext"> 1 - 14 passenger Eldorado mini-bus </p>
+	<p class="ptext"> 1 - 18 passenger Eldorado mini-bus </p>
+        <p class="ptext"> 1 - 25 passenger StarTrans Senator mini-bus </p>
+	<br />
+	<p class="ctext">School Bus Fleet</p>
+        <p class="ptext"> 1 - 72 passenger Thomas bus </p>
+        <p class="ptext"> 1 - 60 passenger IC bus </p>
+        <p class="ptext"> 1 - 27 passenger Thomas bus </p>
     </div>
 <?php
 	require_once 'footer.html';
