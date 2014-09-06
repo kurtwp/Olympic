@@ -46,6 +46,16 @@
                 <td> 7:25 </td>
                 <td> 3:25 </td>
             </tr>
+	    <tr class="stext">
+                <td> Skybrook (Hillspring Drive)</td>
+                <td> 7:30 </td>
+                <td> 3:05 </td>
+            </tr>
+	    <tr class="stext">
+                <td> Skybrook (Wallace Pond)</td>
+                <td> 7:35 </td>
+                <td> 3:10 </td>
+            </tr>
             <tr class="stext">
                 <td> Brookway Drive, Huntersville </td>
                 <td> 7:35 </td>
@@ -55,6 +65,11 @@
                 <td> Earth Fare, Huntersville </td>
                 <td> 7:45 </td>
                 <td> 3:00 </td>
+            </tr>
+	    <tr class="stext">
+                <td> Aldi (Ridge & Prosperity)</td>
+                <td> 7:45 </td>
+                <td> 2:50 </td>
             </tr>
 	    <tr class="stext">
                 <td> 9620 Northcross Center Court, Huntersville </td>
