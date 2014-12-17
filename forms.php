@@ -32,6 +32,7 @@
 		<p class="ctext ppara">Forms</p>
 		
 		<a class="ptext" href="downloads/MICS-Bus-Rules-2014-2015.pdf">Bus Rules</a><br />
+		<a class="ptext" href="downloads/MinorLiabilityWaiver.pdf">Minor Liability Waiver</a><br />
 		<img src="images/white162px.png" alt="white spacer" />
 	</div>
 	
